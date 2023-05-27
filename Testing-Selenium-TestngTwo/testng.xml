@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="FacebookTestSuite">
+    <test name="FacebookTest">
+        
+        <classes>
+            <class name="ai.iamneo.assignmenttwo.Testing_Selenium_TestngTwo.AppTest" />
+        </classes>
+    </test>
+</suite>
